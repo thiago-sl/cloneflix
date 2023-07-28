@@ -1,0 +1,97 @@
+#bannerNarcos{
+    height: 500px;
+    background-image: url("../../images/posts/bannerNarcos.png");
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    background-position: top;
+}
+
+#bannerPolonais{
+    height: 600px;
+    background-image: url("../../images/posts/bannerPolonais.png");
+    align-items: start;
+    justify-content: center;
+    flex-direction: column;
+    background-position: top;
+}
+
+#sliderItem{
+    background-image: url("../../images/posts/abstract.png");
+}
+
+#sliderItem1{
+    background-image: url("../../images/posts/laCasaDePapel.png");
+}
+
+#sliderItem2{
+    background-image: url("../../images/posts/houseOfCards.png");
+}
+
+#sliderItem3{
+    background-image: url("../../images/posts/uglyDelicious.png");
+}
+
+#sliderItem4{
+    background-image: url("../../images/posts/troie.png");
+}
+
+#sliderItem5{
+    background-image: url("../../images/posts/narcos.png");
+}
+
+#sliderItem6{
+    background-image: url("../../images/posts/fauda.png");
+}
+
+#sliderItem7{
+    background-image: url("../../images/posts/dirtMoney.png");
+}
+
+#sliderItem8{
+    background-image: url("../../images/posts/elChapo.png");
+}
+
+#sliderItem9{
+    background-image: url("../../images/posts/crown.png");
+}
+
+#sliderItem10{
+    background-image: url("../../images/posts/clubeDeLendas.png");
+}
+
+#sliderItem11{
+    background-image: url("../../images/posts/blackMirror.png");
+}
+
+#sliderItem12{
+    background-image: url("../../images/posts/13reasonsWhy.png");
+}
+
+#sliderItem13{
+    background-image: url("../../images/posts/trump.png");
+}
+
+#sliderItem14{
+    background-image: url("../../images/posts/agents.png");
+}
+
+#sliderItem15{
+    background-image: url("../../images/posts/unsolved.png");
+}
+
+#sliderItem16{
+    background-image: url("../../images/posts/marcoPolo.png");
+}
+
+#sliderItem17{
+    background-image: url("../../images/posts/suburra.png");
+}
+
+#sliderItem18{
+    background-image: url("../../images/posts/toughestPrisons.png");
+}
+
+#sliderItem19{
+    background-image: url("../../images/posts/comediansInCars.png");
+}
